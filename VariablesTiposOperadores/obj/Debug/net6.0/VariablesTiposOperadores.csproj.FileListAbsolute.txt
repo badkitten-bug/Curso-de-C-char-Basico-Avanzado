@@ -1,0 +1,15 @@
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\bin\Debug\net6.0\VariablesTiposOperadores.exe
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\bin\Debug\net6.0\VariablesTiposOperadores.deps.json
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\bin\Debug\net6.0\VariablesTiposOperadores.runtimeconfig.json
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\bin\Debug\net6.0\VariablesTiposOperadores.dll
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\bin\Debug\net6.0\VariablesTiposOperadores.pdb
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\obj\Debug\net6.0\VariablesTiposOperadores.csproj.AssemblyReference.cache
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\obj\Debug\net6.0\VariablesTiposOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\obj\Debug\net6.0\VariablesTiposOperadores.AssemblyInfoInputs.cache
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\obj\Debug\net6.0\VariablesTiposOperadores.AssemblyInfo.cs
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\obj\Debug\net6.0\VariablesTiposOperadores.csproj.CoreCompileInputs.cache
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\obj\Debug\net6.0\VariablesTiposOperadores.dll
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\obj\Debug\net6.0\refint\VariablesTiposOperadores.dll
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\obj\Debug\net6.0\VariablesTiposOperadores.pdb
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\obj\Debug\net6.0\VariablesTiposOperadores.genruntimeconfig.cache
+C:\Users\Steve\ProyectosNet\VariablesTiposOperadores\obj\Debug\net6.0\ref\VariablesTiposOperadores.dll
